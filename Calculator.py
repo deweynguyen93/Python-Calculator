@@ -10,8 +10,6 @@ if True:
 	print("enter 'quit' to end the program")
 	user_input = input(":")
 	
-if user_input == True:
-	print('exit')
 
 elif user_input == "add":
 	num1 = float(input('enter a number'))
